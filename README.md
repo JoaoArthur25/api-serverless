@@ -27,7 +27,7 @@ Nesse repositorio eu segui a aula do Matheus Teodoro para aprender a como usar o
 
 
   # Clone este repositório
-  $ git clone https://github.com/matheusteodoro01/serverless-api.git
+  $ git clone
 
   # Instalando as dependências
   $ npm install
